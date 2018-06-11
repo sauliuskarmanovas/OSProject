@@ -1,5 +1,5 @@
 # OSProject
-Multiprograminė operacinė sistema
+Multiprograminė operacinė sistema C# kalba
 
 [Visas projektas](https://github.com/auratuk/OSProject/tree/dev)
 
