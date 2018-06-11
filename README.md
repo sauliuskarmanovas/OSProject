@@ -1,0 +1,2 @@
+# OSProject
+Multiprograminė operacinė sistema
